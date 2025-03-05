@@ -1,5 +1,5 @@
 # GFG-Full-Stack-Web-Development-
-Coding of Web Development - Master Frontend to Backend
+Coding of Web Development - Master Frontend to Backend Technologies :
 
 1. HTML
 2. CSS
