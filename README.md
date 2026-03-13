@@ -1,4 +1,12 @@
 # GFG-Full-Stack-Web-Development-
+Web development refers to building, creating, and maintaining websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet, i.e., websites.
+
+• The user accesses a website through a web browser such as Chrome, Firefox, or Safari.
+• The browser sends an HTTP request to the web server to fetch the required webpage.
+• The web server processes the request and may interact with a database to retrieve or store data.
+• After processing, the server sends a response back to the browser containing the webpage resources.
+• The browser renders and displays the webpage to the user while security mechanisms like HTTPS help protect data and prevent attacks.
+
 Coding of Web Development - Master Frontend to Backend Technologies :
 
 # 1. HTML
@@ -50,17 +58,35 @@ CSS Frameworks:
 2. Tailwind CSS: A utility-first framework for customizing styles.
      
 # 3. JAVASCRIPT
-     A Languages used in Website Development 
+     A Languages used in Website Development adds life to web pages by making them interactive. It handles things like buttons, animations, and form checks.
+• Client Side: On the client side, JavaScript works along with HTML and CSS. HTML adds structure to a web page, CSS styles it, and JavaScript brings it to life by allowing users to interact with elements on the page, such as actions on clicking buttons, filling out forms, and showing animations. JavaScript on the client side is directly executed in the user's browser.
+• Server Side: On the Server side (on Web Servers), JavaScript is used to access databases, file handling, and security features to send responses, to browsers.
+     
 # 4. REACT JS
-    React JS is a Backend Programming Language 
+    React JS is a Backend Programming Language React is a powerful JavaScript library for building fast, scalable front-end applications. Created by Facebook, it's known for its component-based structure, single-page applications (SPAs), and virtual DOM, enabling efficient UI updates and a seamless user experience.
 
-
+Manual DOM Manipulation: Traditional JavaScript directly modified the DOM, slowing down the performance.
+Complex State Management: Maintaining UI state became messy and hard to debug.
+Tight Coupling in Frameworks: Frameworks like Angular introduced complex two-way data binding that made code harder to manage.
 
 # 5. NODE JS
-     Node JS is a Backend Programming Language 
+    Node JS is a Backend Programming Language Node.js is a runtime environment that allows JavaScript to run outside the browser for building server-side applications.
 
+Built on the V8 JavaScript engine.
+Supports asynchronous, event-driven programming.
+Efficient for scalable network applications.
+Nodejs
+Nodejs
+"Hello, World!" Program in Node.js
+A “Hello, World!” program is the simplest way to begin with Node.js, showing how JavaScript runs outside the browser.
 
+Executes JavaScript in a server or command-line environment.
+Does not rely on a browser console.
 
+console.log("Hello, World!");
 
 # 6. MANGO DB
-     Used for Back-end Database 
+     Used for Back-end Database MongoDB is a popular document-oriented NoSQL database that stores data in a flexible BSON format, enabling fast and efficient storage and retrieval. It is available under the SSPL, which is not recognized as an open-source license by the Open Source Initiative due to commercial use restrictions.
+
+mongo_introduction
+A simple MongoDB document Structure.
