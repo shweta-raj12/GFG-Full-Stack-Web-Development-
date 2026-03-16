@@ -90,3 +90,12 @@ CSS (Cascading Style Sheets) is a styling language used to control the layout an
 
     mongo_introduction
     A simple MongoDB document Structure.
+    
+# Features of the MongoDB database
+     MongoDB offers several key features that make it efficient and scalable:
+
+    Document Oriented: Stores all related data together in a single, flexible document rather than multiple tables.
+    Indexing: Enables fast queries by avoiding full collection scans, crucial for handling large data efficiently.
+    Scalability: Uses sharding to distribute data across multiple servers; easily add new machines to expand.
+    Replication and High Availability: Stores multiple data copies on different servers for redundancy and fault tolerance.
+    Aggregation: Processes and summarizes data (like SQL GROUP BY) using operations such as sum, avg, min, and max.
