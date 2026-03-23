@@ -99,3 +99,9 @@ CSS (Cascading Style Sheets) is a styling language used to control the layout an
     Scalability: Uses sharding to distribute data across multiple servers; easily add new machines to expand.
     Replication and High Availability: Stores multiple data copies on different servers for redundancy and fault tolerance.
     Aggregation: Processes and summarizes data (like SQL GROUP BY) using operations such as sum, avg, min, and max.
+
+
+
+
+
+
